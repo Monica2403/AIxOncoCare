@@ -10,6 +10,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.imgur.com/x4oITT8.jpg" width="45%" />
   <img src="https://i.imgur.com/wGj98AE.jpeg" width="45%" />
+  <img src="https://i.imgur.com/dv4WnaQ.jpeg" width="30%" />
 </div>
 
 
